@@ -80,7 +80,7 @@
 // LED will always flash on bootup or Wifi Errors
 #define EXTERNAL_LED            LED_BUILTIN
 // true = System LED will Flash on Service Calls; false = disabled LED flashing
-#define USE_FLASH               true
+#define USE_FLASH               true 
 
 //===========================================================================
 //======================== Display default config ===========================
@@ -144,7 +144,7 @@
 // false = Imperial and true = Metric
 #define WEATHER_METRIC              true
 // Languages: ar, bg, ca, cz, de, el, en, fa, fi, fr, gl, hr, hu, it, ja, kr, la, lt, mk, nl, pl, pt, ro, ru, se, sk, sl, es, tr, ua, vi, zh_cn, zh_tw
-#define WEATHER_LANGUAGE            "en"
+#define WEATHER_LANGUAGE            "nl"
 // Pressure at seelevel
 #define SEALEVELPRESSURE_HPA        (1013.25)
 
